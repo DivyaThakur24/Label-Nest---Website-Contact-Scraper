@@ -25,4 +25,4 @@ Screenshot of the script running
 
 6. **Save output** to CSV using pandas.
 
-   ![output screenshot](website_contact_scrapper.png)
+   ![output screenshot](website_contact_scraper.png)
